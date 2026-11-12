@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, sans-serif;
+  /* Beautiful soft lilac background */
+  background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%);
+  min-height: 100vh;
+  color: #1f2937;
+}
