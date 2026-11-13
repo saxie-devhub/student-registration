@@ -1,6 +1,6 @@
 # 🎓 Student Registration System
 
-A full-stack web application built for [Insert Class Name] assignment.
+A full-stack web application built for Object Oriented Design and Analysis assignment.
 
 ## 🛠️ Technologies Used
 - **Frontend:** React, Tailwind CSS, Vite (HTML/JS/CSS)
@@ -25,6 +25,8 @@ A full-stack web application built for [Insert Class Name] assignment.
    - Run `npm install`
    - Run `npm run dev`
 5. Open the localhost link provided by Vite.
+6. <img width="1192" height="612" alt="image" src="https://github.com/user-attachments/assets/74d981d2-73eb-4458-a64e-fe33994a3c37" />
+
 
 ## 📸 Screenshots
 *(Insert your screenshots here)*
