@@ -25,8 +25,8 @@ A full-stack web application built for Object Oriented Design and Analysis assig
    - Run `npm install`
    - Run `npm run dev`
 5. Open the localhost link provided by Vite.
-6. <img width="1192" height="612" alt="image" src="https://github.com/user-attachments/assets/74d981d2-73eb-4458-a64e-fe33994a3c37" />
-
 
 ## 📸 Screenshots
-*(Insert your screenshots here)*
+<img width="1192" height="612" alt="image" src="https://github.com/user-attachments/assets/74d981d2-73eb-4458-a64e-fe33994a3c37" />
+<img width="1156" height="588" alt="image" src="https://github.com/user-attachments/assets/2ad748db-c0b3-49fb-81d0-35a42c93e349" />
+
